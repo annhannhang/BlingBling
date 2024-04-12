@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Windows 11 Home 64-bit",
+            "price": "3.690.000",
+            "image": "https://cdn.tgdd.vn/Products/Images/85/302700/microsoft-windows-11-home-64-bit-chinh-hang-thumb-600x600.jpg",
+            "details": "Microsoft Windows 11 Home 64-bit không chỉ đem đến các trải nghiệm mới mà còn tích hợp nhiều tiện ích giúp tăng năng suất làm việc và khơi nguồn cảm hứng sáng tạo cho mọi đối tượng người dùng, từ lập trình viên, học sinh, giáo viên, doanh nhân cho đến game thủ."
+        },
+        {
+            "id": 2,
+            "name": "Apple Polishing Cloth",
+            "price": "539.000",
+            "image": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MM6F3_AV2?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1632956483000",
+            "details": "Được làm bằng chất liệu mềm mại không mài mòn, Khăn lau màn hình lau sạch hiệu quả và an toàn mọi màn hình Apple, kể cả mặt kính có cấu trúc nano."
+        },
+        {
+            "id": 3,
+            "name": "Cọ vệ sinh",
+            "price": "999.999",
+            "image": "https://maccare.vn/wp-content/uploads/2017/08/ve-sinh-macbook.jpg",
+            "details": "Cọ vệ sinh giúp bạn dễ dàng vệ sinh các khe hở trên bàn phím, các khe hở trên màn hình, các khe hở trên thân máy tính, các khe hở trên các thiết bị điện tử khác."
+        },
+        {
+            "id": 4,
+            "name": "Nước lau màn hình",
+            "price": "400.000",
+            "image": "https://genk.mediacdn.vn/139269124445442048/2023/4/22/review-xit-ve-sinh-lau-man-hinh-whoosh-apple-store-webuy-dsc09079-16821437282042000629113-1682144668878-1682144670111169520031.jpg",
+            "details": "Nước lau màn hình giúp màn hình của bạn luôn sạch sẽ, không bị bám bụi, vân tay, dầu mỡ. Sản phẩm được thiết kế dạng xịt giúp bạn dễ dàng lau chùi màn hình mà không sợ bị tràn ra ngoài."
+        },
+        {
+            "id": 5,
+            "name": "Khăn lau",
+            "price": "42.000",
+            "image": "https://phukiengiaxuong.com.vn/cdn/images/202303/goods_img/khan-lau-man-hinh-cleanroom-G5715-1678692811188.jpg",
+            "details": "Vệ sinh bên ngoài laptop, PC của bạn."
+        },
+        {
+            "id": 6,
+            "name": "Noctua NT-H1-10G",
+            "price": "400.000",
+            "image": "https://anphat.com.vn/media/product/32065_noctua_nt_h1_10g_1_5.jpg",
+            "details": "Keo tản nhiệt Noctua NT-H1-10 chứa hỗn hợp hạt siêu vi, được tối ưu hoá để sử dựng trong hệ thống tản nhiệt PC. Nhờ khẳng năng cách điện cũng như độ nhớt linh hoạt dễ dàng tra keo, NT-H1 đạt hiệu quả xuất sắc khi sử dụng."
+        }
+    ]
+}

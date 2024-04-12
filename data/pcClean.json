@@ -1,0 +1,46 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Combo vệ sinh thường",
+            "price": "600.000",
+            "image": "https://img.freepik.com/free-photo/laptop-being-disinfected-with-solution_23-2148571904.jpg?w=740&t=st=1705986067~exp=1705986667~hmac=277a56cf1c7fb22f056196b0f5b9f92ab38b6b2e3f66d2150787c7030818ce71",
+            "details": "Combo này bao gồm vệ sinh bên ngoài PC, laptop. Tra keo tản nhiệt"
+        },
+        {
+            "id": 2,
+            "name": "Vệ sinh hoàng gia",
+            "price": "3.999.999",
+            "image": "https://img.freepik.com/premium-photo/hands-gloves-disinfecting-laptop-keyboard_77190-5108.jpg?w=1380",
+            "details": "Dọn vệ sinh bên ngoài và bên trong laptop, PC của bạn. Tra keo tản nhiệt. Cài lại windows bản quyền. Tối ưu hóa hệ thống máy tính giúp tăng 25% hiệu suất máy tính"
+        },
+        {
+            "id": 3,
+            "name": "Vệ sinh nâng cao",
+            "price": 999.999,
+            "image": "https://img.freepik.com/free-photo/employee-disinfecting-electronic-device_23-2148727599.jpg?w=1380&t=st=1706004655~exp=1706005255~hmac=8335b614848433c3151e752556074714b6ebc8ab456dd4f8f0153f2518a4aa01",
+            "details": "Dọn vệ sinh bên ngoài và bên trong laptop, PC của bạn."
+        },
+        {
+            "id": 4,
+            "name": "Vệ sinh nâng cao++",
+            "price": "1.590.000",
+            "image": "https://img.freepik.com/free-photo/technician-clearing-circuit-board-disassembled-laptop_1098-13785.jpg?w=1380&t=st=1706004548~exp=1706005148~hmac=a4026224d1d5bf1b7bab8b89b6e5463dfbfc1650af6810e6d1e1222b305f4c56",
+            "details": "Dọn vệ sinh bên ngoài và bên trong laptop, PC của bạn. Tra keo tản nhiệt"
+        },
+        {
+            "id": 5,
+            "name": "Vệ sinh VIP",
+            "price": "3.250.000",
+            "image": "https://img.freepik.com/premium-photo/hand-photographer-digitize-film-slide-saving_112793-8764.jpg?w=1380",
+            "details": "Dọn vệ sinh bên ngoài và bên trong laptop, PC của bạn. Tra keo tản nhiệt. Cài lại windows bản quyền"
+        },
+        {
+            "id": 6,
+            "name": "Vệ sinh thường",
+            "price": "400.000",
+            "image": "https://img.freepik.com/free-photo/person-taking-care-office-cleaning_23-2149374393.jpg?w=1380&t=st=1706004841~exp=1706005441~hmac=0ed02205690592f4df471867cf95ae637bd9148774da893fa719f0d7433e7bea",
+            "details": "Vệ sinh bên ngoài laptop, PC của bạn."
+        }
+    ]
+}
